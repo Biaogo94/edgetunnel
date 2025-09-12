@@ -1,6 +1,6 @@
 name = "fighting"
 main = "_worker.js"
 compatibility_date = "2025-09-07"
-uuid = "one"
 keep_vars = true
+
 
